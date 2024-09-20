@@ -6,7 +6,7 @@ int main() {
 
   int number = 500;
 
-while (number <= 1000) //
+while (number <= 1000) 
 {
     cout << number << " "; 
     if (number % 50 == 0)
